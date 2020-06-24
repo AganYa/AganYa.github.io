@@ -17,185 +17,6 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Fenix — 比 MyBatis 更加强大的 Spring Data JPA 扩展库</title>
-    <link href="https://aganya.github.io/2019/08/20/hou-duan/jpa/fenix-bi-mybatis-geng-jia-qiang-da-de-spring-data-jpa-kuo-zhan-ku/"/>
-    <id>https://aganya.github.io/2019/08/20/hou-duan/jpa/fenix-bi-mybatis-geng-jia-qiang-da-de-spring-data-jpa-kuo-zhan-ku/</id>
-    <published>2019-08-19T16:10:00.000Z</published>
-    <updated>2020-04-12T01:09:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/blinkfox/fenix&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Fenix&lt;/a&gt;（菲尼克斯）是一个比 MyBatis 更加强大，为解决复杂、动态 SQL
-        
-      
-    
-    </summary>
-    
-      <category term="后端" scheme="https://aganya.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
-    
-    
-      <category term="Java" scheme="https://aganya.github.io/tags/Java/"/>
-    
-      <category term="JPA" scheme="https://aganya.github.io/tags/JPA/"/>
-    
-      <category term="Fenix" scheme="https://aganya.github.io/tags/Fenix/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>SpringBoot2.x 单元测试</title>
-    <link href="https://aganya.github.io/2019/03/02/hou-duan/spring/springboot2.x-dan-yuan-ce-shi/"/>
-    <id>https://aganya.github.io/2019/03/02/hou-duan/spring/springboot2.x-dan-yuan-ce-shi/</id>
-    <published>2019-03-02T09:20:00.000Z</published>
-    <updated>2020-04-12T01:09:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;blockquote&gt;
-&lt;p&gt;一个 bug 被隐藏的时间越长，修复这个 bug 的代价就越大。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;我曾经在 &lt;a
-        
-      
-    
-    </summary>
-    
-      <category term="后端" scheme="https://aganya.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
-    
-    
-      <category term="Java" scheme="https://aganya.github.io/tags/Java/"/>
-    
-      <category term="单元测试" scheme="https://aganya.github.io/tags/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/"/>
-    
-      <category term="Spring" scheme="https://aganya.github.io/tags/Spring/"/>
-    
-      <category term="SpringBoot" scheme="https://aganya.github.io/tags/SpringBoot/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java代码性能评估库Stalker介绍</title>
-    <link href="https://aganya.github.io/2019/02/14/hou-duan/java/java-dai-ma-xing-neng-ping-gu-ku-stalker-jie-shao/"/>
-    <id>https://aganya.github.io/2019/02/14/hou-duan/java/java-dai-ma-xing-neng-ping-gu-ku-stalker-jie-shao/</id>
-    <published>2019-02-14T04:00:00.000Z</published>
-    <updated>2020-04-12T01:09:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;a href=&quot;https://github.com/blinkfox/stalker/blob/master/README.md&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;English
-        
-      
-    
-    </summary>
-    
-      <category term="后端" scheme="https://aganya.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
-    
-    
-      <category term="Java" scheme="https://aganya.github.io/tags/Java/"/>
-    
-      <category term="性能测试" scheme="https://aganya.github.io/tags/%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>一个极简的 Java ASCII 表格生成库</title>
-    <link href="https://aganya.github.io/2019/01/25/hou-duan/java/yi-ge-ji-jian-de-java-ascii-biao-ge-sheng-cheng-ku/"/>
-    <id>https://aganya.github.io/2019/01/25/hou-duan/java/yi-ge-ji-jian-de-java-ascii-biao-ge-sheng-cheng-ku/</id>
-    <published>2019-01-25T02:34:00.000Z</published>
-    <updated>2020-04-12T01:09:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;blockquote&gt;
-&lt;p&gt;一个轻量级、零依赖的 Java ASCII 表格生成库。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;特性&quot;&gt;&lt;a href=&quot;#特性&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="后端" scheme="https://aganya.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
-    
-    
-      <category term="Java" scheme="https://aganya.github.io/tags/Java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java面向对象设计之桥接模式</title>
-    <link href="https://aganya.github.io/2018/12/19/ruan-jian-she-ji/she-ji-mo-shi/java-mian-xiang-dui-xiang-she-ji-zhi-qiao-jie-mo-shi/"/>
-    <id>https://aganya.github.io/2018/12/19/ruan-jian-she-ji/she-ji-mo-shi/java-mian-xiang-dui-xiang-she-ji-zhi-qiao-jie-mo-shi/</id>
-    <published>2018-12-18T16:20:00.000Z</published>
-    <updated>2020-04-12T01:09:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;模式动机&quot;&gt;&lt;a href=&quot;#模式动机&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="软件设计" scheme="https://aganya.github.io/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
-    
-    
-      <category term="Java" scheme="https://aganya.github.io/tags/Java/"/>
-    
-      <category term="设计模式" scheme="https://aganya.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java面向对象设计之适配器模式</title>
-    <link href="https://aganya.github.io/2018/12/12/ruan-jian-she-ji/she-ji-mo-shi/java-mian-xiang-dui-xiang-she-ji-zhi-gua-pei-qi-mo-shi/"/>
-    <id>https://aganya.github.io/2018/12/12/ruan-jian-she-ji/she-ji-mo-shi/java-mian-xiang-dui-xiang-she-ji-zhi-gua-pei-qi-mo-shi/</id>
-    <published>2018-12-12T14:00:00.000Z</published>
-    <updated>2020-04-12T01:09:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;模式动机&quot;&gt;&lt;a href=&quot;#模式动机&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="软件设计" scheme="https://aganya.github.io/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
-    
-    
-      <category term="Java" scheme="https://aganya.github.io/tags/Java/"/>
-    
-      <category term="设计模式" scheme="https://aganya.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    
-  </entry>
-  
-  <entry>
     <title>软件程序设计原则</title>
     <link href="https://aganya.github.io/2018/11/24/ruan-jian-she-ji/ruan-jian-cheng-xu-she-ji-yuan-ze/"/>
     <id>https://aganya.github.io/2018/11/24/ruan-jian-she-ji/ruan-jian-cheng-xu-she-ji-yuan-ze/</id>
@@ -291,7 +112,7 @@
     <link href="https://aganya.github.io/2018/11/18/ruan-jian-gong-ju/cpu-duo-ji-huan-cun/"/>
     <id>https://aganya.github.io/2018/11/18/ruan-jian-gong-ju/cpu-duo-ji-huan-cun/</id>
     <published>2018-11-18T13:55:00.000Z</published>
-    <updated>2020-04-12T01:09:00.000Z</updated>
+    <updated>2020-06-24T14:53:01.347Z</updated>
     
     <summary type="html">
     
@@ -313,10 +134,10 @@
   </entry>
   
   <entry>
-    <title>单元测试指南</title>
-    <link href="https://aganya.github.io/2018/11/15/hou-duan/java/dan-yuan-ce-shi-zhi-nan/"/>
-    <id>https://aganya.github.io/2018/11/15/hou-duan/java/dan-yuan-ce-shi-zhi-nan/</id>
-    <published>2018-11-15T14:50:00.000Z</published>
+    <title>JavaScript之再学习</title>
+    <link href="https://aganya.github.io/2018/10/30/qian-duan/javascript-zhi-zai-xue-xi/"/>
+    <id>https://aganya.github.io/2018/10/30/qian-duan/javascript-zhi-zai-xue-xi/</id>
+    <published>2018-10-29T16:30:00.000Z</published>
     <updated>2020-04-12T01:09:00.000Z</updated>
     
     <summary type="html">
@@ -325,26 +146,24 @@
       
         
         
-          &lt;h2 id=&quot;一、必要性&quot;&gt;&lt;a href=&quot;#一、必要性&quot; class=&quot;headerlink&quot;
+          &lt;h2 id=&quot;概览&quot;&gt;&lt;a href=&quot;#概览&quot; class=&quot;headerlink&quot; title=&quot;概览&quot;&gt;&lt;/a&gt;概览&lt;/h2&gt;&lt;p&gt;JavaScript 是一种面向对象的动态语言，它包含类型、运算符、标准内置（ built-in）对象和方法。它的语法来源于 Java 和
         
       
     
     </summary>
     
-      <category term="后端" scheme="https://aganya.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
+      <category term="前端" scheme="https://aganya.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="Java" scheme="https://aganya.github.io/tags/Java/"/>
-    
-      <category term="单元测试" scheme="https://aganya.github.io/tags/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/"/>
+      <category term="JavaScript" scheme="https://aganya.github.io/tags/JavaScript/"/>
     
   </entry>
   
   <entry>
-    <title>Java8新特性及使用(二)</title>
-    <link href="https://aganya.github.io/2018/11/14/hou-duan/java/java8-xin-te-xing-ji-shi-yong-er/"/>
-    <id>https://aganya.github.io/2018/11/14/hou-duan/java/java8-xin-te-xing-ji-shi-yong-er/</id>
-    <published>2018-11-14T14:00:00.000Z</published>
+    <title>UML各类关系介绍</title>
+    <link href="https://aganya.github.io/2018/10/22/ruan-jian-she-ji/uml-ge-lei-guan-xi-jie-shao/"/>
+    <id>https://aganya.github.io/2018/10/22/ruan-jian-she-ji/uml-ge-lei-guan-xi-jie-shao/</id>
+    <published>2018-10-22T01:00:00.000Z</published>
     <updated>2020-04-12T01:09:00.000Z</updated>
     
     <summary type="html">
@@ -353,216 +172,7 @@
       
         
         
-          &lt;h2 id=&quot;扩展注解的支持&quot;&gt;&lt;a href=&quot;#扩展注解的支持&quot; class=&quot;headerlink&quot; title=&quot;扩展注解的支持&quot;&gt;&lt;/a&gt;扩展注解的支持&lt;/h2&gt;&lt;p&gt;Java
-        
-      
-    
-    </summary>
-    
-      <category term="后端" scheme="https://aganya.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
-    
-    
-      <category term="Java" scheme="https://aganya.github.io/tags/Java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java8新特性及使用(一)</title>
-    <link href="https://aganya.github.io/2018/11/13/hou-duan/java/java8-xin-te-xing-ji-shi-yong-yi/"/>
-    <id>https://aganya.github.io/2018/11/13/hou-duan/java/java8-xin-te-xing-ji-shi-yong-yi/</id>
-    <published>2018-11-13T14:30:00.000Z</published>
-    <updated>2020-04-12T01:09:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;新特性列表&quot;&gt;&lt;a href=&quot;#新特性列表&quot; class=&quot;headerlink&quot; title=&quot;新特性列表&quot;&gt;&lt;/a&gt;新特性列表&lt;/h2&gt;&lt;p&gt;以下是Java8中的引入的部分新特性。关于Java8新特性更详细的介绍可参考&lt;a
-        
-      
-    
-    </summary>
-    
-      <category term="后端" scheme="https://aganya.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
-    
-    
-      <category term="Java" scheme="https://aganya.github.io/tags/Java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java7新特性及使用</title>
-    <link href="https://aganya.github.io/2018/11/12/hou-duan/java/java7-xin-te-xing-ji-shi-yong/"/>
-    <id>https://aganya.github.io/2018/11/12/hou-duan/java/java7-xin-te-xing-ji-shi-yong/</id>
-    <published>2018-11-11T16:30:00.000Z</published>
-    <updated>2020-04-12T01:09:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;新特性列表&quot;&gt;&lt;a href=&quot;#新特性列表&quot; class=&quot;headerlink&quot; title=&quot;新特性列表&quot;&gt;&lt;/a&gt;新特性列表&lt;/h2&gt;&lt;p&gt;以下是Java7中的引入的部分新特性。关于Java7更详细的介绍可参考&lt;a
-        
-      
-    
-    </summary>
-    
-      <category term="后端" scheme="https://aganya.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
-    
-    
-      <category term="Java" scheme="https://aganya.github.io/tags/Java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java6新特性及使用</title>
-    <link href="https://aganya.github.io/2018/11/11/hou-duan/java/java6-xin-te-xing-ji-shi-yong/"/>
-    <id>https://aganya.github.io/2018/11/11/hou-duan/java/java6-xin-te-xing-ji-shi-yong/</id>
-    <published>2018-11-11T14:40:00.000Z</published>
-    <updated>2020-04-12T01:09:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;新特性列表&quot;&gt;&lt;a href=&quot;#新特性列表&quot; class=&quot;headerlink&quot; title=&quot;新特性列表&quot;&gt;&lt;/a&gt;新特性列表&lt;/h2&gt;&lt;p&gt;以下是Java6中的引入的部分新特性，相比Java5的新特性就少了很多了。关于Java6更详细的介绍可参考&lt;a
-        
-      
-    
-    </summary>
-    
-      <category term="后端" scheme="https://aganya.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
-    
-    
-      <category term="Java" scheme="https://aganya.github.io/tags/Java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java5新特性及使用</title>
-    <link href="https://aganya.github.io/2018/11/09/hou-duan/java/java5-xin-te-xing-ji-shi-yong/"/>
-    <id>https://aganya.github.io/2018/11/09/hou-duan/java/java5-xin-te-xing-ji-shi-yong/</id>
-    <published>2018-11-08T16:30:00.000Z</published>
-    <updated>2020-04-12T01:09:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;新特性列表&quot;&gt;&lt;a href=&quot;#新特性列表&quot; class=&quot;headerlink&quot; title=&quot;新特性列表&quot;&gt;&lt;/a&gt;新特性列表&lt;/h2&gt;&lt;p&gt;以下是Java5中的引入的部分新特性，关于更详细的新特性了解，可参考&lt;a
-        
-      
-    
-    </summary>
-    
-      <category term="后端" scheme="https://aganya.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
-    
-    
-      <category term="Java" scheme="https://aganya.github.io/tags/Java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java注解的理解和应用</title>
-    <link href="https://aganya.github.io/2018/11/08/hou-duan/java/java-zhu-jie-de-li-jie-he-ying-yong/"/>
-    <id>https://aganya.github.io/2018/11/08/hou-duan/java/java-zhu-jie-de-li-jie-he-ying-yong/</id>
-    <published>2018-11-07T16:30:00.000Z</published>
-    <updated>2020-04-12T01:09:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h2&gt;&lt;h3 id=&quot;1-什么是注解&quot;&gt;&lt;a href=&quot;#1-什么是注解&quot; class=&quot;headerlink&quot; title=&quot;1.
-        
-      
-    
-    </summary>
-    
-      <category term="后端" scheme="https://aganya.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
-    
-    
-      <category term="Java" scheme="https://aganya.github.io/tags/Java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java反射基础</title>
-    <link href="https://aganya.github.io/2018/11/07/hou-duan/java/java-fan-she-ji-chu/"/>
-    <id>https://aganya.github.io/2018/11/07/hou-duan/java/java-fan-she-ji-chu/</id>
-    <published>2018-11-07T13:40:00.000Z</published>
-    <updated>2020-04-12T01:09:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;一、概述&quot;&gt;&lt;a href=&quot;#一、概述&quot; class=&quot;headerlink&quot; title=&quot;一、概述&quot;&gt;&lt;/a&gt;一、概述&lt;/h2&gt;&lt;h3 id=&quot;1-简介&quot;&gt;&lt;a href=&quot;#1-简介&quot; class=&quot;headerlink&quot; title=&quot;1.
-        
-      
-    
-    </summary>
-    
-      <category term="后端" scheme="https://aganya.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
-    
-    
-      <category term="Java" scheme="https://aganya.github.io/tags/Java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java IO 知识整理</title>
-    <link href="https://aganya.github.io/2018/11/05/hou-duan/java/java-io-zhi-shi-zheng-li/"/>
-    <id>https://aganya.github.io/2018/11/05/hou-duan/java/java-io-zhi-shi-zheng-li/</id>
-    <published>2018-11-05T03:30:00.000Z</published>
-    <updated>2020-04-12T01:09:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;各IO类关系梳理&quot;&gt;&lt;a href=&quot;#各IO类关系梳理&quot; class=&quot;headerlink&quot; title=&quot;各IO类关系梳理&quot;&gt;&lt;/a&gt;各IO类关系梳理&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;InputStream: Java
-        
-      
-    
-    </summary>
-    
-      <category term="后端" scheme="https://aganya.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
-    
-    
-      <category term="Java" scheme="https://aganya.github.io/tags/Java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java面向对象设计之责任链模式</title>
-    <link href="https://aganya.github.io/2018/11/04/ruan-jian-she-ji/she-ji-mo-shi/java-mian-xiang-dui-xiang-she-ji-zhi-ze-ren-lian-mo-shi/"/>
-    <id>https://aganya.github.io/2018/11/04/ruan-jian-she-ji/she-ji-mo-shi/java-mian-xiang-dui-xiang-she-ji-zhi-ze-ren-lian-mo-shi/</id>
-    <published>2018-11-04T14:00:00.000Z</published>
-    <updated>2020-04-12T01:09:00.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;模式动机&quot;&gt;&lt;a href=&quot;#模式动机&quot; class=&quot;headerlink&quot;
+          &lt;h2 id=&quot;继承关系（generalization）&quot;&gt;&lt;a href=&quot;#继承关系（generalization）&quot; class=&quot;headerlink&quot;
         
       
     
@@ -573,7 +183,333 @@
     
       <category term="Java" scheme="https://aganya.github.io/tags/Java/"/>
     
-      <category term="设计模式" scheme="https://aganya.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+      <category term="面向对象编程" scheme="https://aganya.github.io/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/"/>
+    
+      <category term="UML" scheme="https://aganya.github.io/tags/UML/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>面向对象编程的理解</title>
+    <link href="https://aganya.github.io/2018/10/21/bian-cheng-zhi-dao/mian-xiang-dui-xiang-bian-cheng-de-li-jie/"/>
+    <id>https://aganya.github.io/2018/10/21/bian-cheng-zhi-dao/mian-xiang-dui-xiang-bian-cheng-de-li-jie/</id>
+    <published>2018-10-20T16:30:00.000Z</published>
+    <updated>2020-04-12T01:09:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;面向过程和面向对象&quot;&gt;&lt;a href=&quot;#面向过程和面向对象&quot; class=&quot;headerlink&quot; title=&quot;面向过程和面向对象&quot;&gt;&lt;/a&gt;面向过程和面向对象&lt;/h2&gt;&lt;h3 id=&quot;面向过程思想概述&quot;&gt;&lt;a href=&quot;#面向过程思想概述&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="编程之道" scheme="https://aganya.github.io/categories/%E7%BC%96%E7%A8%8B%E4%B9%8B%E9%81%93/"/>
+    
+    
+      <category term="Java" scheme="https://aganya.github.io/tags/Java/"/>
+    
+      <category term="面向对象编程" scheme="https://aganya.github.io/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>代码整洁之道内容概要</title>
+    <link href="https://aganya.github.io/2018/10/15/bian-cheng-zhi-dao/dai-ma-zheng-ji-zhi-dao-nei-rong-gai-yao/"/>
+    <id>https://aganya.github.io/2018/10/15/bian-cheng-zhi-dao/dai-ma-zheng-ji-zhi-dao-nei-rong-gai-yao/</id>
+    <published>2018-10-15T14:48:00.000Z</published>
+    <updated>2020-06-24T14:37:06.220Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;读了代码整洁之道，觉得这本书写的很好，所以就将里面自己觉得很经典的内容记录下来，作为自己以后写代码的标准和准则。同时也为那些曾经困惑过的人一点参考吧！&lt;/p&gt;
+&lt;h2 id=&quot;一、在正式开始之前，我们先思考几个几个问题：&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="编程之道" scheme="https://aganya.github.io/categories/%E7%BC%96%E7%A8%8B%E4%B9%8B%E9%81%93/"/>
+    
+    
+      <category term="整洁代码" scheme="https://aganya.github.io/tags/%E6%95%B4%E6%B4%81%E4%BB%A3%E7%A0%81/"/>
+    
+      <category term="重构" scheme="https://aganya.github.io/tags/%E9%87%8D%E6%9E%84/"/>
+    
+      <category term="测试" scheme="https://aganya.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>常用Bash命令整理之其他常用命令</title>
+    <link href="https://aganya.github.io/2018/10/13/ruan-jian-gong-ju/linux/chang-yong-bash-ming-ling-zheng-li-zhi-qi-ta-chang-yong-ming-ling/"/>
+    <id>https://aganya.github.io/2018/10/13/ruan-jian-gong-ju/linux/chang-yong-bash-ming-ling-zheng-li-zhi-qi-ta-chang-yong-ming-ling/</id>
+    <published>2018-10-13T10:15:00.000Z</published>
+    <updated>2020-04-12T01:09:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;1-hostname-查看主机名&quot;&gt;&lt;a href=&quot;#1-hostname-查看主机名&quot; class=&quot;headerlink&quot; title=&quot;1. hostname - 查看主机名&quot;&gt;&lt;/a&gt;1. hostname -
+        
+      
+    
+    </summary>
+    
+      <category term="软件工具" scheme="https://aganya.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="Linux" scheme="https://aganya.github.io/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>常用Bash命令整理之文本处理</title>
+    <link href="https://aganya.github.io/2018/10/11/ruan-jian-gong-ju/linux/chang-yong-bash-ming-ling-zheng-li-zhi-wen-ben-chu-li/"/>
+    <id>https://aganya.github.io/2018/10/11/ruan-jian-gong-ju/linux/chang-yong-bash-ming-ling-zheng-li-zhi-wen-ben-chu-li/</id>
+    <published>2018-10-11T14:05:00.000Z</published>
+    <updated>2020-04-12T01:09:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;1-sort-文本排序&quot;&gt;&lt;a href=&quot;#1-sort-文本排序&quot; class=&quot;headerlink&quot; title=&quot;1. sort - 文本排序&quot;&gt;&lt;/a&gt;1. sort -
+        
+      
+    
+    </summary>
+    
+      <category term="软件工具" scheme="https://aganya.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="Linux" scheme="https://aganya.github.io/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>常用Bash命令整理之操作文件和目录</title>
+    <link href="https://aganya.github.io/2018/10/10/ruan-jian-gong-ju/linux/chang-yong-bash-ming-ling-zheng-li-zhi-cao-zuo-wen-jian-he-mu-lu/"/>
+    <id>https://aganya.github.io/2018/10/10/ruan-jian-gong-ju/linux/chang-yong-bash-ming-ling-zheng-li-zhi-cao-zuo-wen-jian-he-mu-lu/</id>
+    <published>2018-10-10T15:10:00.000Z</published>
+    <updated>2020-04-12T01:09:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;1-touch-创建文件&quot;&gt;&lt;a href=&quot;#1-touch-创建文件&quot; class=&quot;headerlink&quot; title=&quot;1. touch - 创建文件&quot;&gt;&lt;/a&gt;1. touch -
+        
+      
+    
+    </summary>
+    
+      <category term="软件工具" scheme="https://aganya.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="Linux" scheme="https://aganya.github.io/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>常用Bash命令整理之查看文件和目录</title>
+    <link href="https://aganya.github.io/2018/10/09/ruan-jian-gong-ju/linux/chang-yong-bash-ming-ling-zheng-li-zhi-cha-kan-wen-jian-he-mu-lu/"/>
+    <id>https://aganya.github.io/2018/10/09/ruan-jian-gong-ju/linux/chang-yong-bash-ming-ling-zheng-li-zhi-cha-kan-wen-jian-he-mu-lu/</id>
+    <published>2018-10-09T14:45:00.000Z</published>
+    <updated>2020-04-12T01:09:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;1-ls-列出文件名和目录&quot;&gt;&lt;a href=&quot;#1-ls-列出文件名和目录&quot; class=&quot;headerlink&quot; title=&quot;1. ls - 列出文件名和目录&quot;&gt;&lt;/a&gt;1. ls -
+        
+      
+    
+    </summary>
+    
+      <category term="软件工具" scheme="https://aganya.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="Linux" scheme="https://aganya.github.io/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>轻量级滚动动画JavaScript库aos.js</title>
+    <link href="https://aganya.github.io/2018/10/08/qian-duan/qing-liang-ji-gun-dong-dong-hua-javascript-ku-aos.js/"/>
+    <id>https://aganya.github.io/2018/10/08/qian-duan/qing-liang-ji-gun-dong-dong-hua-javascript-ku-aos.js/</id>
+    <published>2018-10-08T14:30:00.000Z</published>
+    <updated>2020-04-12T01:09:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、简介&quot;&gt;&lt;a href=&quot;#一、简介&quot; class=&quot;headerlink&quot; title=&quot;一、简介&quot;&gt;&lt;/a&gt;一、简介&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;http://michalsnik.github.io/aos/&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="https://aganya.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="JavaScript" scheme="https://aganya.github.io/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>全功能JavaScript灯箱画廊插件lightgallery.js</title>
+    <link href="https://aganya.github.io/2018/10/06/qian-duan/quan-gong-neng-javascript-deng-xiang-hua-lang-cha-jian-lightgallery.js/"/>
+    <id>https://aganya.github.io/2018/10/06/qian-duan/quan-gong-neng-javascript-deng-xiang-hua-lang-cha-jian-lightgallery.js/</id>
+    <published>2018-10-06T15:30:00.000Z</published>
+    <updated>2020-04-12T01:09:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;一、简介&quot;&gt;&lt;a href=&quot;#一、简介&quot; class=&quot;headerlink&quot; title=&quot;一、简介&quot;&gt;&lt;/a&gt;一、简介&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="https://aganya.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="JavaScript" scheme="https://aganya.github.io/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Google Java编程风格指南</title>
+    <link href="https://aganya.github.io/2018/10/05/bian-cheng-zhi-dao/google-java-bian-cheng-feng-ge-zhi-nan/"/>
+    <id>https://aganya.github.io/2018/10/05/bian-cheng-zhi-dao/google-java-bian-cheng-feng-ge-zhi-nan/</id>
+    <published>2018-10-05T08:38:00.000Z</published>
+    <updated>2020-04-12T01:09:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;1-前言&quot;&gt;&lt;a href=&quot;#1-前言&quot; class=&quot;headerlink&quot; title=&quot;1 前言&quot;&gt;&lt;/a&gt;1 前言&lt;/h2&gt;&lt;p&gt;这份文档是&lt;code&gt;Google
+        
+      
+    
+    </summary>
+    
+      <category term="编程之道" scheme="https://aganya.github.io/categories/%E7%BC%96%E7%A8%8B%E4%B9%8B%E9%81%93/"/>
+    
+    
+      <category term="Java" scheme="https://aganya.github.io/tags/Java/"/>
+    
+      <category term="Google" scheme="https://aganya.github.io/tags/Google/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PostgreSQL基础知识整理</title>
+    <link href="https://aganya.github.io/2018/09/25/shu-ju-ku/postgresql-ji-chu-zhi-shi-zheng-li/"/>
+    <id>https://aganya.github.io/2018/09/25/shu-ju-ku/postgresql-ji-chu-zhi-shi-zheng-li/</id>
+    <published>2018-09-24T16:33:00.000Z</published>
+    <updated>2020-06-24T14:53:06.036Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;数据库操作DML&quot;&gt;&lt;a href=&quot;#数据库操作DML&quot; class=&quot;headerlink&quot; title=&quot;数据库操作DML&quot;&gt;&lt;/a&gt;数据库操作DML&lt;/h2&gt;&lt;h3 id=&quot;CREATE-TABLE&quot;&gt;&lt;a href=&quot;#CREATE-TABLE&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="数据库" scheme="https://aganya.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+      <category term="PostgreSQL" scheme="https://aganya.github.io/tags/PostgreSQL/"/>
+    
+      <category term="数据库" scheme="https://aganya.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git知识点整理</title>
+    <link href="https://aganya.github.io/2018/09/24/ruan-jian-gong-ju/git/git-zhi-shi-dian-zheng-li/"/>
+    <id>https://aganya.github.io/2018/09/24/ruan-jian-gong-ju/git/git-zhi-shi-dian-zheng-li/</id>
+    <published>2018-09-24T13:50:00.000Z</published>
+    <updated>2020-04-12T01:09:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;1-Git基本概念。&quot;&gt;&lt;a href=&quot;#1-Git基本概念。&quot; class=&quot;headerlink&quot; title=&quot;1. Git基本概念。&quot;&gt;&lt;/a&gt;1.
+        
+      
+    
+    </summary>
+    
+      <category term="软件工具" scheme="https://aganya.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="Git" scheme="https://aganya.github.io/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript基础教程</title>
+    <link href="https://aganya.github.io/2018/09/14/qian-duan/javascript-ji-chu-jiao-cheng/"/>
+    <id>https://aganya.github.io/2018/09/14/qian-duan/javascript-ji-chu-jiao-cheng/</id>
+    <published>2018-09-13T16:12:00.000Z</published>
+    <updated>2020-04-12T01:09:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、JavaScript介绍&quot;&gt;&lt;a href=&quot;#一、JavaScript介绍&quot; class=&quot;headerlink&quot; title=&quot;一、JavaScript介绍&quot;&gt;&lt;/a&gt;一、JavaScript介绍&lt;/h2&gt;&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="https://aganya.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="JavaScript" scheme="https://aganya.github.io/tags/JavaScript/"/>
     
   </entry>
   
